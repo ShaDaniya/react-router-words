@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-router-words/static/css/main.562992f0.css",
+    "main.js": "/react-router-words/static/js/main.dd233051.js",
+    "index.html": "/react-router-words/index.html",
+    "main.562992f0.css.map": "/react-router-words/static/css/main.562992f0.css.map",
+    "main.dd233051.js.map": "/react-router-words/static/js/main.dd233051.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.562992f0.css",
+    "static/js/main.dd233051.js"
+  ]
+}
